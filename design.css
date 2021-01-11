@@ -1,0 +1,58 @@
+body{
+    background-color: white;
+    color: black;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+container{
+width:80%;
+margin:auto;
+overflow: hidden;
+}
+
+header{
+padding-top: 0px;
+min-height: 70px;
+}
+
+header ul{
+padding: 0;
+margin: 0;
+float:right;
+}
+
+header li {
+    display: inline;
+    padding:0 20px 0 20px;
+}
+header .current a{
+    color:rgb(244, 244, 249);
+    background-color:#3A10DD; 
+}
+header a{
+    text-decoration: none;
+    color: #0F0C0C;
+    font-size: 15px;
+    
+    
+    }
+
+section li {
+    display: inline;
+    padding:0 5px 10 5px;
+    
+}
+
+section ul{
+    text-align: center;
+}
+    section a{
+        background-color:rgba(128, 128, 128, 0.40); 
+        color: black;
+        font-size: 15px;
+        text-decoration: none;
+        }
+
+h6{
+    text-align: center;
+}
